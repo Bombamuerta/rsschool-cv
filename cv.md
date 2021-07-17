@@ -25,7 +25,8 @@ freelance web developer
 
 ## Education
 LoftSchool:  
-__"Web development for beginners"__
+__"Web development for beginners"__ 
+
 __"Basics of site layout"__
 ***
 ## English level
