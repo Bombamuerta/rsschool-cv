@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bombamuerta.github.io/rsschool-cv/cv
